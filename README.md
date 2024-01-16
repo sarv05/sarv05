@@ -2,7 +2,6 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=sarv05" alt = "sarv05" /> </p>
 
 - 👋 I’m Sarvesh Babu, Pre-final year Undergraduate at SSN College of Engineering.
-- 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobby - Movies, Music, Cricket, Batminton
 - 📫 You can contact me through email - sarveshbabu2004@gmail.com
